@@ -1,68 +1,68 @@
 [
-    "piano1": {
+    {
         "nom": "Yamaha U1",
         "marque": "Yamaha",
         "prix": 5000,
         "description": "Un piano acoustique de qualité supérieure, idéal pour les pianistes professionnels.",
         "image_url": "https://www.francepianos.com/images/u1.jpg"
     },
-    "piano2": {
+    {
         "nom": "Steinway & Sons Model D",
         "marque": "Steinway & Sons",
         "prix": 90000,
         "description": "Un piano à queue légendaire, utilisé dans les salles de concert du monde entier.",
         "image_url": "https://nuvomagazine.com/wp-content/uploads/2018/10/Chronicle_Steinway_Page_1_Image_0002_88.jpg"
     },
-    "piano3": {
+    {
         "nom": "Bösendorfer 280VC",
         "marque": "Bösendorfer",
         "prix": 150000,
         "description": "Un piano haut de gamme avec un son riche et profond.",
         "image_url": "https://www.boesendorfer.com/_Resources/Persistent/92205267ce8a4a45390edc2b1864dba4f5e6657c/280%20matt%2009-C.jpg"
     },
-    "piano4": {
+    {
         "nom": "Yamaha P-125",
         "marque": "Yamaha",
         "prix": 700,
         "description": "Très bon rapport qualité-prix pour un piano numérique portable.",
         "image_url": "https://www.yamahamusiclondon.com/sites/ymlv5.93/productimages/big/NP125BUK-PACK1.jpg"
     },
-    "piano5": {
+    {
         "nom": "Casio Privia PX-S7000",
         "marque": "Casio",
         "prix": 2000,
         "description": "Un piano numérique moderne avec un design élégant.",
         "image_url": "https://www.kennysmusic.co.uk/images/casio-privia-px-s7000bk-digital-piano-black-p4577-14501_image.jpg"
     },
-    "piano6": {
+    {
         "nom": "Roland FP-90X",
         "marque": "Roland",
         "prix": 2200,
         "description": "Un excellent piano numérique avec des sons réalistes et une bonne mécanique.",
         "image_url": "https://www.rivertonpiano.com/online/digital/roland/fp-90x/fp-90x-1.jpg"
     },
-    "piano7": {
+    {
         "nom": "Kawai K-300",
         "marque": "Kawai",
         "prix": 6000,
         "description": "Un bon piano droit avec un toucher précis et une belle sonorité.",
         "image_url": "https://www.kawaipiano.fr/images/productimages/k-300_1_694.jpg"
     },
-    "piano8": {
+    {
         "nom": "Korg Grandstage 88",
         "marque": "Korg",
         "prix": 1800,
         "description": "Idéal pour la scène et les performances live.",
         "image_url": "https://tmw.com.sg/wp-content/uploads/2021/12/korg-grandstage-88-digital-stage-piano.png"
     },
-    "piano9": {
+    {
         "nom": "Nord Grand",
         "marque": "Nord",
         "prix": 3500,
         "description": "Un des meilleurs claviers numériques pour les pianistes professionnels.",
         "image_url": "https://sbrprosound.co.za/wp-content/uploads/2022/08/0021420.jpeg"
     },
-    "piano10": {
+    {
         "nom": "Schimmel C169",
         "marque": "Schimmel",
         "prix": 30000,
