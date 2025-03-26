@@ -1,4 +1,4 @@
-{
+[
     "piano1": {
         "nom": "Yamaha U1",
         "marque": "Yamaha",
@@ -69,4 +69,4 @@
         "description": "Un piano à queue compact mais puissant.",
         "image_url": "https://nebout-hamm.com/wp-content/uploads/2023/03/schimmel-c169t-noir-1.png"
     }
-}
+]
